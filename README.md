@@ -1,2 +1,2 @@
 # CSS-Positining
-using the flexbox prperties
+using the flexbox properties
